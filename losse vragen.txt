@@ -1,0 +1,11 @@
+Opdracht 1: Wat is SQL?
+- Structured Query Language is een programmeertaal die voornamelijk wordt gebruikt voor het opslaan en opvragen van gegevens uit en in een database.
+
+Opdracht 3: Als je ervoor hebt kunnen zorgen dat de juiste data print, is het zover! Voer de volgende regel in voor de username, en leg uit wat je te zien krijgt: ' OR '1'='1. 
+- Alle data uit te tabel user wordt getoond in een array.
+
+Opdracht 4: Wat is de naam van de "techniek" die je in opdracht 3 hebt toegepast? 
+- SQL Injection
+
+Opdracht 5: Hoe zou je ervoor kunnen zorgen dat de regel uit opdracht 3 niet meer kan gebeuren?
+- Door 'required' te gebruiken wordt het 'verplicht' om de goede waarde voor gebruikersnaam of wachtwoord in te vullen. 
